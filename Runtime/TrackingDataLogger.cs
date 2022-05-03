@@ -26,7 +26,7 @@ namespace Assets.Code.UserStudy
             {
                 File.Delete(filePath);
             }
-asd
+
             return filePath;
 
         }
