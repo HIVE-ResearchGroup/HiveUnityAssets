@@ -1,0 +1,22 @@
+{
+    "name": "at.hive.utility",
+    "version": "1.0.0",
+    "displayName": "Hive Utility Package",
+    "description": "This is the Hive Utility package used for different types of reoccuring functions like logging for studies.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/HIVE-ResearchGroup/HiveUnityAssets",
+    "changelogUrl": "https://github.com/HIVE-ResearchGroup/HiveUnityAssets",
+    "licensesUrl": "https://github.com/HIVE-ResearchGroup/HiveUnityAssets/blob/main/LICENSE",
+    "dependencies": {},
+   "keywords": [
+      "HIVE",
+      "AR",
+      "VR"
+    ],
+    "author": {
+      "name": "HIVE",
+      "email": "hive@fh-hagenberg.at",
+      "url": "https://hive.fh-hagenberg.at/"
+    }
+  }
