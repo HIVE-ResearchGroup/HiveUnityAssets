@@ -6,3 +6,8 @@ See: https://docs.unity3d.com/Manual/upm-ui-giturl.html
 
 ## Logging of tracking data
 The LogTrackingData.cs and TrackingDataLogger.cs classes can be used to make records of the movement of study participants. The LogTrackingData is a manager class that must be set in the scene. Via TrackingDataLogger the recording can then be triggered easily and statically.
+
+Path is currently hardcoded to: 
+```c#
+public static string filePathPrefix = "C:\\_tracking_data\\";
+```
